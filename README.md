@@ -15,7 +15,6 @@ QA Engineer and Java Backend Developer
 * ✉️  You can contact me at [devch.tech@gmail.com](mailto:devch.tech@gmail.com)
 * 🧠  I'm learning Springboot
 * 🤝  I'm open to collaborating on Proyectos enfocados al backend de Java con Springboot
-  y Microservicios
 * ⚡  Me encanta ir al Gym 💪
 
 <a href="https://www.github.com/devch-tech" target="_blank" rel="noreferrer"><img
